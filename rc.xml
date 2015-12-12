@@ -734,6 +734,10 @@
 
   # end of the example
 -->
+  <application name="st-256color">
+	<decor>no</decor>
+	<fullscreen>yes</fullscreen>
+  </application>
 </applications>
 
 </openbox_config>
